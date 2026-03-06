@@ -18,7 +18,7 @@
 <p>Yeməkləri sat, müştəriləri məmnun et və restoranını böyüt! 😎</p>
 
 <!-- Status -->
-<p id="money">Büdcən: 100 AZN 💰</p>
+<p id="money">Büdcən: 0 AZN 💰</p>
 <p id="score">Xal: 0 ⭐</p>
 <p id="stock">Stok: Burger 5, Pizza 5, Salad 5, Sushi 3, Donut 3</p>
 <p id="customer" style="margin-top:20px; font-weight:bold;"></p>
@@ -34,10 +34,10 @@
 <br><br>
 
 <!-- Al düymələri -->
-<button onclick="buy('Burger')">Al Burger 🛒 (5 AZN)</button>
-<button onclick="buy('Pizza')">Al Pizza 🛒 (8 AZN)</button>
-<button onclick="buy('Salad')">Al Salad 🛒 (3 AZN)</button>
-<button onclick="buy('Sushi')">Al Sushi 🛒 (12 AZN)</button>
+<button onclick="buy('Burger')">Al Burger 🛒 (10 AZN)</button>
+<button onclick="buy('Pizza')">Al Pizza 🛒 (10 AZN)</button>
+<button onclick="buy('Salad')">Al Salad 🛒 (5 AZN)</button>
+<button onclick="buy('Sushi')">Al Sushi 🛒 (15 AZN)</button>
 <button onclick="buy('Donut')">Al Donut 🛒 (4 AZN)</button>
 
 <!-- Şəkil -->
