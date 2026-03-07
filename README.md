@@ -44,7 +44,7 @@
 <img id="food-img" src="" width="150" style="display:none; margin-top:20px; border-radius:10px;">
 
 <script>
-let money = 100;
+let money = 0;
 let score = 0;
 let stock = { Burger:5, Pizza:5, Salad:5, Sushi:3, Donut:3 };
 
